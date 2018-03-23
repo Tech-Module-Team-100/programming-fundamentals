@@ -1,0 +1,5 @@
+c:\users\георги\documents\visual studio 2017\Projects\Miles to Kilometers\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe.config
+c:\users\георги\documents\visual studio 2017\Projects\Miles to Kilometers\Miles to Kilometers\bin\Debug\Miles to Kilometers.exe
+c:\users\георги\documents\visual studio 2017\Projects\Miles to Kilometers\Miles to Kilometers\bin\Debug\Miles to Kilometers.pdb
+c:\users\георги\documents\visual studio 2017\Projects\Miles to Kilometers\Miles to Kilometers\obj\Debug\Miles to Kilometers.exe
+c:\users\георги\documents\visual studio 2017\Projects\Miles to Kilometers\Miles to Kilometers\obj\Debug\Miles to Kilometers.pdb
