@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 2,
   "targets": {
     ".NETCoreApp,Version=v2.0": {
       "Microsoft.NETCore.App/2.0.0": {
@@ -194,7 +194,7 @@
           "lib/netstandard1.0/_._": {}
         },
         "build": {
-          "build/netstandard2.0/NETStandard.Library.targets": {}
+          "build/NETStandard.Library.targets": {}
         }
       }
     }
@@ -664,47 +664,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vladi\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Георги\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "E:\\SoftUni\\Tech_Modul_Software Technologies\\GitHub ex\\team_Projekt\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\P02 Rectangle Area.csproj",
       "projectName": "P02 Rectangle Area",
       "projectPath": "E:\\SoftUni\\Tech_Modul_Software Technologies\\GitHub ex\\team_Projekt\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\P02 Rectangle Area.csproj",
       "packagesPath": "C:\\Users\\Vladi\\.nuget\\packages\\",
       "outputPath": "E:\\SoftUni\\Tech_Modul_Software Technologies\\GitHub ex\\team_Projekt\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\Георги\\Desktop\\Group project\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\P02 Rectangle Area.csproj",
+      "projectName": "P02 Rectangle Area",
+      "projectPath": "C:\\Users\\Георги\\Desktop\\Group project\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\P02 Rectangle Area.csproj",
+      "outputPath": "C:\\Users\\Георги\\Desktop\\Group project\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\obj\\",
+>>>>>>> 3d779b42f414eb164ae31470e3e2183236b2ddf6
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
-      "configFilePaths": [
-        "C:\\Users\\Vladi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
-      ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
-      },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
@@ -712,15 +696,10 @@
         "dependencies": {
           "Microsoft.NETCore.App": {
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "2.0",
             "autoReferenced": true
           }
-        },
-        "imports": [
-          "net461"
-        ],
-        "assetTargetFallback": true,
-        "warn": true
+        }
       }
     }
   }
