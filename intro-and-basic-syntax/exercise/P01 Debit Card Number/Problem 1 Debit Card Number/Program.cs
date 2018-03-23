@@ -10,11 +10,12 @@ namespace Problem_1_Debit_Card_Number
     {
         static void Main(string[] args)
         {
-            int num1 = int.Parse(Console.ReadLine());
-            int num2 = int.Parse(Console.ReadLine());
-            int num3 = int.Parse(Console.ReadLine());
-            int num4 = int.Parse(Console.ReadLine());
-            Console.WriteLine(num1.ToString("D4") + " " + num2.ToString("D4") + " " + num3.ToString("D4") + " " + num4.ToString("D4"));
+    // changing the names of the variables
+            int number1 = int.Parse(Console.ReadLine());
+            int number2 = int.Parse(Console.ReadLine());
+            int number3 = int.Parse(Console.ReadLine());
+            int number4 = int.Parse(Console.ReadLine());
+            Console.WriteLine(number1.ToString("D4") + " " + number2.ToString("D4") + " " + number3.ToString("D4") + " " + number4.ToString("D4"));
 
         }
     }
