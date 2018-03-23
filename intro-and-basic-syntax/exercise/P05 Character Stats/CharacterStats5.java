@@ -9,14 +9,14 @@ public class CharacterStats5 {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         String name = reader.readLine();
-        int currHealth = Integer.parseInt(reader.readLine());
-        int maxHealth = Integer.parseInt(reader.readLine());
+        int currHeal = Integer.parseInt(reader.readLine());
+        int maxHeal = Integer.parseInt(reader.readLine());
         int currEnergy = Integer.parseInt(reader.readLine());
         int maxEnergy = Integer.parseInt(reader.readLine());
         reader.close();
 
         System.out.printf("Name: %s\n", name);
-        System.out.printf("Health: %s\n", bar(currHealth, maxHealth));
+        System.out.printf("Health: %s\n", bar(currHeal, maxHeal));
         System.out.printf("Energy: %s", bar(currEnergy, maxEnergy));
     }
 
@@ -28,7 +28,7 @@ public class CharacterStats5 {
         for (int i = 0; i < max - curr; i++) {
             output.append('.');
         }
-        output.append('|');
+        output.append('|'); 
         return output.toString();
     }
 }
