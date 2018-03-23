@@ -7,9 +7,13 @@ namespace P02_Rectangle_Area
         static void Main(string[] args)
         {
             double widht = double.Parse(Console.ReadLine());
+            ///Entering the widht of the rectangle 
+
             double hight = double.Parse(Console.ReadLine());
+            ///Entering the height of the rectangle
 
             Console.WriteLine($"{widht*hight:f2}");
+            ///Calculating and printing the area
         }
     }
 }
