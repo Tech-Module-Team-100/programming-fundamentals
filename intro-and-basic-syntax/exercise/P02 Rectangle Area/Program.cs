@@ -5,13 +5,13 @@ namespace P02_Rectangle_Area
     class Program
     {
         static void Main(string[] args)
-        {
+        {     rename  variable
             //Take widht from Console
-            double widhtDouble = double.Parse(Console.ReadLine());
+            double widht = double.Parse(Console.ReadLine());
             //Take hight from Console
-            double hightDouble = double.Parse(Console.ReadLine());
+            double hight = double.Parse(Console.ReadLine());
             //Print in Console
-            Console.WriteLine($"{widhtDouble*hightDouble:f2}");
+            Console.WriteLine($"{widht*hight:f2}");
         }
     }
 }
