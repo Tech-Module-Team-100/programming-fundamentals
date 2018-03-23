@@ -10,8 +10,10 @@ namespace Miles_to_Kilometers
     {
         static void Main(string[] args)
         {
-            double miles = double.Parse(Console.ReadLine());
-            Console.WriteLine((miles * 1.60934).ToString("f2"));
+            //Read milies from Console
+            double mile = double.Parse(Console.ReadLine());
+            //Print in Console
+            Console.WriteLine((mile * 1.60934).ToString("f2"));
         }
     }
 }
