@@ -674,11 +674,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\SoftUni\\Tech_Modul_Fundamentals_C#\\C# BASIC SYNTAX - EXERCISES\\P02 Rectangle Area\\P02 Rectangle Area.csproj",
+      "projectUniqueName": "E:\\SoftUni\\Tech_Modul_Software Technologies\\GitHub ex\\team_Projekt\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\P02 Rectangle Area.csproj",
       "projectName": "P02 Rectangle Area",
-      "projectPath": "E:\\SoftUni\\Tech_Modul_Fundamentals_C#\\C# BASIC SYNTAX - EXERCISES\\P02 Rectangle Area\\P02 Rectangle Area.csproj",
+      "projectPath": "E:\\SoftUni\\Tech_Modul_Software Technologies\\GitHub ex\\team_Projekt\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\P02 Rectangle Area.csproj",
       "packagesPath": "C:\\Users\\Vladi\\.nuget\\packages\\",
-      "outputPath": "E:\\SoftUni\\Tech_Modul_Fundamentals_C#\\C# BASIC SYNTAX - EXERCISES\\P02 Rectangle Area\\obj\\",
+      "outputPath": "E:\\SoftUni\\Tech_Modul_Software Technologies\\GitHub ex\\team_Projekt\\programming-fundamentals\\intro-and-basic-syntax\\exercise\\Rectangle Area\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
